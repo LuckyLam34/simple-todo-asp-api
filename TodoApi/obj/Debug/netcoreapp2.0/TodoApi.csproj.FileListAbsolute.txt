@@ -1,0 +1,11 @@
+E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojAssemblyReference.cache
+E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
