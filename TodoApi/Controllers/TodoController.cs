@@ -45,5 +45,30 @@ namespace TodoApi.Controllers
 
             return CreatedAtRoute( "GetTodo", new { id = item.Key }, item );
         }
+
+        [HttpPut("{id}")]
+        public IActionResult Update(string id, [FromBody] TodoItem item )
+        {
+            if(id == null || item.Key != id)
+            {
+                return BadRequest();
+            }
+
+            var todo = TodoItems.FindItem( id );
+            if(todo == null)
+            {
+                return NotFound();
+            }
+
+            TodoItems.UpdateItem( item );
+            return new NoContentResult();
+        }
+
+        [HttpDelete("{id}")]
+        public void Delete(string id)
+        {
+            TodoItems.RemoveItem( id );
+        }
+
     }
 }
