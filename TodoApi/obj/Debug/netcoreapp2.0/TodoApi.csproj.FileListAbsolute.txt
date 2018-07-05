@@ -9,3 +9,14 @@ E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\obj\Debug\netcoreapp2.0\TodoApi
 E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
 E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
 E:\WebApi\tutorial-2\simple-todo-asp-api\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
+D:\Self-study\asp.net-api\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+D:\Self-study\asp.net-api\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+D:\Self-study\asp.net-api\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+D:\Self-study\asp.net-api\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+D:\Self-study\asp.net-api\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+D:\Self-study\asp.net-api\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojAssemblyReference.cache
+D:\Self-study\asp.net-api\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\Self-study\asp.net-api\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+D:\Self-study\asp.net-api\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+D:\Self-study\asp.net-api\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+D:\Self-study\asp.net-api\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
